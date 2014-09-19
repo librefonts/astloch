@@ -1,0 +1,50 @@
+{
+  "name": "Astloch",
+  "designer": "Dan Rhatigan",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 24148,
+  "fonts": [
+    {
+      "name": "Astloch",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Astloch-Bold.ttf",
+      "postScriptName": "Astloch-Bold",
+      "fullName": "Astloch Bold",
+      "copyright": ""
+    },
+    {
+      "name": "Astloch",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Astloch-Regular.ttf",
+      "postScriptName": "Astloch",
+      "fullName": "Astloch",
+      "copyright": ""
+    },
+    {
+      "name": "Astloch",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Astloch-Regular-TTF.ttf",
+      "postScriptName": "Astloch",
+      "fullName": "Astloch",
+      "copyright": ""
+    },
+    {
+      "name": "Astloch",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Astloch-Bold-TTF.ttf",
+      "postScriptName": "Astloch-Bold",
+      "fullName": "Astloch Bold",
+      "copyright": ""
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-02-16"
+}

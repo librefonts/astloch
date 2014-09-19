@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [Astloch-Regular.ttf.ttx, Astloch-Bold.ttf.ttx, src/Astloch-Regular-TTF_FF.ttf.ttx,
+  src/Astloch-Bold-TTF_FF.ttf.ttx, src/Astloch-Regular-TTF_FLS.ttf.ttx, src/Astloch-Bold-TTF_FLS.ttf.ttx,
+  src/Astloch-Bold-TTF.sfd, src/Astloch-Regular-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
